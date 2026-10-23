@@ -16,6 +16,8 @@ def mention(moyenne):
         return "Bien"
     if moyenne >= 12:
         return "Assez bien"
+    if moyenne >=10
+        return "Passable"
     return "Passable"
 
 
