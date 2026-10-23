@@ -1,0 +1,1 @@
+permet de calculer des moyennes et de donner la mention correspondante
